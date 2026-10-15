@@ -1,6 +1,6 @@
 <h1 align="center">Exploring Sythesizable Chemical Space with Iterative Pathway Refinements</h1>
 
-This is the official code repository for the paper titled [Exploring Sythesizable Chemical Space with Iterative Pathway Refinements](https://arxiv.org/abs/2509.16084).
+This is the official code repository for the paper titled [Exploring Sythesizable Chemical Space with Iterative Pathway Refinements](https://arxiv.org/abs/2509.16084) (ICLR 2026, Oral).
 
 <p align="center">
     <img width="750" src="assets/concept.png"/>
@@ -170,10 +170,10 @@ This project is currently not accepting external contributions.
 ## Citation
 If you find this repository and our paper useful, we kindly request to cite our work.
 ```BibTex
-@article{lee2025reasyn,
+@article{lee2026reasyn,
   title     = {Exploring Sythesizable Chemical Space with Iterative Pathway Refinements},
   author    = {Lee, Seul and Kreis, Karsten and Veccham, Srimukh Prasad and Liu, Meng and Reidenbach, Danny and Paliwal, Saee and Nie, Weili and Vahdat, Arash},
-  journal   = {arXiv},
-  year      = {2025}
+  journal   = {International Conference on Learning Representations},
+  year      = {2026}
 }
 ```
